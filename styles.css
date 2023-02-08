@@ -18,3 +18,15 @@ body{
 div i{
     margin: 15px;
 }
+.item1{
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    width: 100%;
+    background-color: aliceblue;
+    border: 1px solid red;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    justify-content:center;
+    align-items:center;
+}
