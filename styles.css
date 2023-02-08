@@ -1,1 +1,20 @@
-
+body{
+    display: flex;
+    justify-content: center;
+    background-color: pink ;
+    align-items:center;
+        }
+.container{
+    
+    display: flex;
+    height: 500px;
+    width: 20%;
+    border: 1px solid red;
+    justify-content: center;
+    border-radius: 20px;
+    align-items:flex-end;
+    background: url(./download.jpeg)    
+}
+div i{
+    margin: 15px;
+}
